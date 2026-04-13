@@ -1,7 +1,7 @@
 # sistema-recomendacion-ia
 # Sistema de Recomendación de Películas con IA
 
-[![Streamlit App]([https://sistema-recomendacion-ia-fdgiy8syu7kpbu7vmt8o2o.streamlit.app/](https://sistema-recomendacion-ia-fdgiy8syu7kpbu7vmt8o2o.streamlit.app/))
+[![Streamlit App]([https://sistema-recomendacion-ia-fdgiy8syu7kpbu7vmt8o2o.streamlit.app/)
 
 ## 📝 Descripción del Proyecto
 Este repositorio contiene una aplicación web interactiva que utiliza Inteligencia Artificial para recomendar películas de forma personalizada. A través de un enfoque de **Filtrado Colaborativo**, el sistema analiza las preferencias del usuario en tiempo real y predice matemáticamente su afinidad con cientos de títulos que aún no ha visto.
